@@ -37,7 +37,7 @@ Netflix-Tableau-Project/
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/CHEPHEUS07/NETFLIX.git
 
 2. Open Tableau Desktop
 
